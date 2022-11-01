@@ -1,0 +1,33 @@
+{
+    "offers":{
+        "offersbtns":{
+            "offerbtn1":"Single Production",
+            "offerbtn2":"Album Production",
+            "offerbtn3":"Music Marketing",
+            "offerbtn4":"Musical Counselling",
+            "offerbtn5":"Live Band Record"
+        },
+        "offerheads":{
+            "offerhead1":"Single Production",
+            "offerhead2":"Album Production",
+            "offerhead3":"Music Marketing",
+            "offerhead4":"Musical Counselling",
+            "offerhead5":"Live Band Record"
+        },
+        "offertext":{
+            "offertext1":"We produce singles for gosple artist, hiphop, rap, trap, reggea and all other music heard world wide.",
+            "offertext2":"We also make albums for all types of music, from Hiphop to Reggea that with no doubt will be among the top ten album.",
+            "offertext3":"We are into music marketing to make sure our clients music is heard by the world, we'll do all to make our clients happy.",
+            "offertext4":"We have the best music counsellors in our reach to help all our clients about their type of music and all concerning their music career",
+            "offertext5":"At slursStudio we have the best equipment to meet the need of our live bands client."
+        }
+        
+    },
+
+    "quotes":{
+        "quote1":"Music has been recorded as the no1 peacemaker all over the world",
+        "quote2": "More than 10 Billion people said music can their anger, what if good music is played almost everywhere you go? PEACE!",
+        "quote3":"videos might hurt you eye buh good music will never hurt you hear no matter how loud it is"
+    }
+    
+}
